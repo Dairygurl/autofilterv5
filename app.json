@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/Dairygurl/autofilterv5",
-    "repository": "https://github.com/selfie-bd/autofilterv5",
+    "repository": "https://github.com/Dairygurl/autofilterv5",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
